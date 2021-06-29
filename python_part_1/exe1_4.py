@@ -1,4 +1,4 @@
-#the exercise number 3 https://stepik.org/lesson/5047/step/4?auth=login&unit=1086
+#the exercise number 4 https://stepik.org/lesson/5047/step/4?auth=login&unit=1086
 
 name = input()
 if name == 'треугольник':
